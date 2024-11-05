@@ -1,4 +1,4 @@
-# <img src="/Images/Logo.png" width="500" title="Iconic!">
+# Alex Floarea -ETERNAL- for DiffSinger
 
 <p align="center">
 🧟The "Undead Idol" taking the world, one death at a time!🧟<br><br>
