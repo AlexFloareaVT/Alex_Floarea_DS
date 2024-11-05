@@ -74,6 +74,7 @@ This voicebank was trained alongside the following corpora:
 	- Labels by UtaUtaUtau, edited by tigermeat
 - Thai datasets for Thai Support (https://thaids.printmov.com/)
 - Various datasets by TigerMeat for Chinese and Korean support
-- Project AI❤dol Public English Dataset (https://github.com/lottev1991/Project-AIdol-Public-English-Dataset)<br><br>
+- Project AI❤dol Public English Dataset (https://github.com/lottev1991/Project-AIdol-Public-English-Dataset)<br>
+
 This voicebank also utilises the "tgm_hifigan v107" vocoder, trained by TigerMeat, as it contains all of Alex's current data in the dataset used to train it. This allows for better replication of Alex's voice across vocal modes.
 
