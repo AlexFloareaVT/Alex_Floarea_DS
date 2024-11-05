@@ -7,7 +7,7 @@
 
 ***
 ## Summary
-Alex Floarea -ETERNAL- for DiffSinger is an AI Singer utilizing the DiffSinger engine through OpenUTAU! They have a masculine voice with a British accent and can sing in English, Japanese, Chinese, Korean, Spanish and Thai! (Plus many more through phoneme manipulation!)
+Alex Floarea -ETERNAL- for DiffSinger is an AI Singer utilizing the DiffSinger engine through OpenUTAU! They have a masculine voice with a British accent and can sing in English, Japanese, Chinese, Korean, French, Spanish and Thai! (Plus many more through phoneme manipulation!)
 
 ***
 
