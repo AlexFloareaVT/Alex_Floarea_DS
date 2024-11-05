@@ -1,4 +1,4 @@
-# Alex Floarea -ETERNAL- for DiffSinger
+## Alex Floarea -ETERNAL- for DiffSinger
 
 <p align="center">
 🧟The "Undead Idol" taking the world, one death at a time!🧟<br><br>
