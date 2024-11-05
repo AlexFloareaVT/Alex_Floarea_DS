@@ -64,6 +64,8 @@ The following phonemes are extras for the English language natively supported by
 | dr | Consonant | dream [**dr** iy m] |
 | tr | Consonant | train [**tr** ey n] |
 
+The Thai language works through the regular "DIFFS" phonemizer as, as far as I'm aware, there isn't one specifically for Thai yet!
+
 ***
 
 ## Credits
