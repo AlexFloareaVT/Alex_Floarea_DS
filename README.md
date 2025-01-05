@@ -2,7 +2,7 @@
 
 <p align="center">
 🧟The "Undead Idol" taking the world, one death at a time!🧟<br><br>
-<img src="/Images/Icon.png" width="125" title="Iconic!">
+<img src="/Images/Icon.png" width="250" title="Iconic!">
 </p>
 
 ***
