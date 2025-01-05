@@ -34,7 +34,7 @@ Alex currently has 5 "Vocal Modes"
 ***
 
 ## Notes
-This voicebank was trained with the "Multi-Dict" branch of DiffSinger. This **is** supported by the current beta of OpenUTAU, but language tags are not automatically added to phonemizer output. As a workaround the dsdict.yaml file for each language has replacements added so that raw phonemiser outputs have the language tags added. This does **not** add them to phoneme hints contained within "[ ]" so you will need to add those manually. The following is a list of language tags used by "Alex Floarea -ETERNAL- for DiffSinger":
+This voicebank was trained with the "Multi-Dict" branch of DiffSinger. This is supported by the current beta of OpenUTAU. The following is a list of language tags used by "Alex Floarea -ETERNAL- for DiffSinger":
 
 | Language | Tag |
 | :----- | ---: |
@@ -56,7 +56,7 @@ As well as the language tags there are a few extra phonemes available to use acr
 | q | Glottal Stop | uh-oh [ah q ow] |
 | vf | Vocal Fry | This can be added before vowels, and some consonants, paired with a low pitch curve/point, to add vocal fry |
 
-The following phonemes are extras for the English language natively supported by the upcoming "DIFFS-EN+" phonemizer pending an update to OpenUTAU, but can be added through phoneme editing and phoneme hints to the default "DIFFS-EN" phonemizer:
+The following phonemes are extras for the English language natively supported by the upcoming "DIFFS-EN+" phonemizer pending an update to OpenUTAU:
 
 | Phoneme | Type | Usage |
 | :----- | --- | ---: |
